@@ -18,7 +18,7 @@ public class WebProjectApplication {
         // Return HTML content with branding and colorful text
         return "<html>" +
                "<head>" +
-               "<title>CloudFolks HUB</title>" +
+               "<title>Saurabh Gusain</title>" +
                "</head>" +
                "<body style='text-align:center; background-color:#f0f8ff;'>" +
                "<h1 style='color: #4CAF50;'>Welcome to <span style='color: #00008B;'>CloudFolks HUB</span>!</h1>" +
